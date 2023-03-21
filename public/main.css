@@ -7,3 +7,19 @@ img {
     display: block;
     margin: auto;
 }
+
+.index {
+    text-align: center;
+    font-weight: bold;
+}
+
+li {
+    text-decoration: none;
+    list-style: none;
+    font-size: 24px;
+}
+
+.ProjecTile a{
+    padding-left: 4px;
+    color: red;
+}
