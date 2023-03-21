@@ -1,3 +1,5 @@
+
+
 body {
     background-color: floralwhite;
 }
@@ -11,15 +13,35 @@ img {
 .index {
     text-align: center;
     font-weight: bold;
+    font-size: 30px;
 }
 
 li {
-    text-decoration: none;
+    
     list-style: none;
     font-size: 24px;
 }
 
-.ProjecTile a{
-    padding-left: 4px;
+a {
+    text-decoration: none;
+}
+
+.ProjecTile {
+    text-align: center;
+
     color: red;
+    text-decoration: none;
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    box-shadow: 5px 10px #888888;
+    background-color: aqua;
+
+}
+
+hr {
+    height: 3px;
+    background-color: black;
+}
+
+.btn {
+    margin-left: 10%;
 }

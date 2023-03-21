@@ -27,8 +27,8 @@ function Default(html) {
       <body>
         <div className="wrapper">
           <header>
-            <h1>
-              <a href="/projects">ProjecTile</a>
+            <h1 >
+              <a className="ProjecTile" href="/projects">ProjecTile</a>
             </h1>
           </header>
 
